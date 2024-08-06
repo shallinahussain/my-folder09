@@ -1,0 +1,1 @@
+console.log("focous on your goals");
